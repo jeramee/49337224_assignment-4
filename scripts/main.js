@@ -80,11 +80,11 @@ function leetSpeak(word) {
 	for (let i = 0; i < word.length; i++) {
 		if (word[i] == "e")
 		{
-			"3" = word[i];
+			word[i] = "3" ;
 		}
 		if (word[i] == "a")
 		{
-			"4" = word[i];
+			word[i] = "4";
 		}
 	}
 
